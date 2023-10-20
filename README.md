@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&weight=500&size=28&pause=90&color=AD85F7&vCenter=true&width=435&lines=Lets get drunk!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&weight=500&size=28&pause=90&color=AD85F7&vCenter=true&width=435&lines=Letsgetdrunk!" alt="Typing SVG" /></a>
 
 ### Hi there 👋
 ### I'm a Computer Science student at 42 Lisboa. This is my progress so far!
