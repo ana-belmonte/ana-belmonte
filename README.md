@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=025A09&height=120&section=header">
 
 ## Ana Belmonte 👋
 ### I’m currently a Software Engineer student at 42lisbon. 
@@ -9,7 +9,7 @@
 ### This is my progress so far!
 <br>
 
-[![aaires-b's 42 stats](https://badge.mediaplus.ma/kettlebells/aaires-b?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![aaires-b's 42 stats](https://badge.mediaplus.ma/greenbinary/aaires-b?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <br>
 
 ---
