@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5733&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Belmonte;+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5733&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Belmonte;I'm+a+Computer+Science+Student+at+42+Lisbon;Welcome!)](https://git.io/typing-svg)
 
-<h3 style="color: #ff5733;" align="center">I am a Computer Science Student at 42 Lisbon!</h3>
+
 <br>
 
 ### This is my progress so far!
@@ -12,7 +12,7 @@
 <br>
 
 ---
-### Languages and Tools:
+### ⚙️ Languages and Tools ⚙️:
 <br>
 <p>
   <img width=45px heigth= 45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C language" > 
