@@ -7,6 +7,7 @@
 <h3> Languages and Tools: </h3>
 <p>
   <img width=45px heigth= 45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C language" > 
+  <img width=45px heigth= 45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 language">     
   <img width=45px heigth= 45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" >
   <img width=45px heigth= 45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux OS">
   <img width=45px heigth= 45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"/>
