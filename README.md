@@ -11,7 +11,16 @@
 ### This is my progress so far!
 <br>
 
-[![aaires-b's 42 stats](https://badge.mediaplus.ma/greenbinary/aaires-b?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+Projects | Skills | Grade | 
+:-------:|:------:|:-----:|
+[**LIBFT**](https://github.com/ana-belmonte/libft) | [**Imperative programming**] [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 125%** 
+[**PRINTF**](https://github.com/ana-belmonte/printf) | [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 100%**
+[**GET_NEXT_LINE**](https://github.com/ana-belmonte/get_next_line) | [**Unix**] [**Algorithms & AI**] [**Rigor**] |**:white_check_mark: 125%**
+[**BORN2BERROT**](https://github.com/ana-belmonte/born2beroot) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 120%**
+[**PIPEX**](https://github.com/ana-belmonte/pipex) | [**Unix**] [**Imperative programming**] | **:white_check_mark: 100%**
+[**SO_LONG**](https://github.com/ana-belmonte/so_long) | [**Imperative programming**]  [**Graphics**] | **:white_check_mark: 125%**
+[**PUSH_SWAP**](https://github.com/ana-belmonte/push_swap) | [**Unix**] [**Rigor**] [**Algorithmis & AI**] [**Imperative programming**] | **:white_check_mark: 125%**
+
 <br>
 
 ---
