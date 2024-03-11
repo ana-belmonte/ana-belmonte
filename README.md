@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=025A09&height=120&section=header">
 
 ## Ana Belmonte 👋
-### I’m currently a Software Engineer student at 42lisbon. 
+### I’m currently a Software Engineer student at 42 Lisbon. 
 
 
 <br>
