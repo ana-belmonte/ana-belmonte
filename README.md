@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=025A09&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0905A3&height=120&section=header">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ana+Belmonte;Welcome)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@ Projects | Skills | Grade |
 [**LIBFT**](https://github.com/ana-belmonte/libft) | [**Imperative programming**] [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 125%** 
 [**PRINTF**](https://github.com/ana-belmonte/printf) | [**Algorithms & AI**] [**Rigor**] | **:white_check_mark: 100%**
 [**GET_NEXT_LINE**](https://github.com/ana-belmonte/get_next_line) | [**Unix**] [**Algorithms & AI**] [**Rigor**] |**:white_check_mark: 125%**
-[**BORN2BERROT**](https://github.com/ana-belmonte/born2beroot) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 120%**
+[**BORN2BERROT**](https://github.com/ana-belmonte/Born2BeRoot) | [**Network & system administration**] [**Rigor**] | **:white_check_mark: 120%**
 [**PIPEX**](https://github.com/ana-belmonte/pipex) | [**Unix**] [**Imperative programming**] | **:white_check_mark: 100%**
 [**SO_LONG**](https://github.com/ana-belmonte/so_long) | [**Imperative programming**]  [**Graphics**] | **:white_check_mark: 125%**
 [**PUSH_SWAP**](https://github.com/ana-belmonte/push_swap) | [**Unix**] [**Rigor**] [**Algorithmis & AI**] [**Imperative programming**] | **:white_check_mark: 125%**
