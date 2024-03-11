@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Ana Belmonte</h1>
 
-<h4 align="center">I am a Computer Science Stdutent at 42 Lisbon!</h4>
+<h3 align="center">I am a Computer Science Student at 42 Lisbon!</h3>
 <br/>
 
 ## This is my progress so far!
@@ -21,7 +21,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="mailto:anaairesbelmonte@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail Contact"/></a>
+<a href="mailto:anaairesbelmonte@gmail.com"><img align="center" height="30" width="40" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Gmail Contact"/></a>
 <a href="https://www.linkedin.com/in/anaabelmonte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anaabelmonte/" height="30" width="40" /></a>
 </p>
 
