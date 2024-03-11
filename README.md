@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=025A09&height=120&section=header">
 
-## Ana Belmonte 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ana+Belmonte;Welcome)](https://git.io/typing-svg)
+
+##
 ### I’m currently a Software Engineer student at 42 Lisbon. 
 
 
